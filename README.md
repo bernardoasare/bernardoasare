@@ -1,4 +1,4 @@
-Hi, I’m Bernard Asare 👋
+Hi, I’m Bernard Odarno Asare 👋
 
 Data Analyst | Business Intelligence | Statistics
 
