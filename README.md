@@ -1,16 +1,55 @@
-## Hi there 👋
+Hi, I’m Bernard Asare 👋
 
-<!--
-**bernardoasare/bernardoasare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Intelligence | Statistics
 
-Here are some ideas to get you started:
+I am a Statistics and Data Science graduate with a strong interest in transforming data into meaningful insights that support informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines statistical analysis, data analytics, business intelligence, and practical experience in public-sector budgeting and administrative reporting.
+
+I enjoy working with data to uncover patterns, evaluate performance, identify trends, and communicate findings through analytical reports and interactive dashboards.
+
+🛠️ Technical Skills
+
+* Data Analysis: Python, R, SQL, SPSS
+* Business Intelligence: Microsoft Power BI
+* Data Management: Microsoft Excel, Google Sheets
+* Statistical Analysis: Regression Analysis, Time Series Analysis, Hypothesis Testing, Predictive Modelling
+* Data Visualisation: Interactive Dashboards and Analytical Reporting
+
+📊 Featured Projects
+
+1. Ghana Unemployment Analysis & Forecasting
+
+An analytical study examining Ghana’s unemployment trends over 31 years, incorporating statistical modelling, ARIMA forecasting, and interactive Power BI visualisation.
+
+View Project
+
+2. Heart Disease Prediction
+
+A data science project exploring cardiovascular risk factors through exploratory data analysis, statistical testing, logistic regression, and Random Forest classification.
+
+View Project
+
+3. Africa Economic Intelligence
+
+Currently developing a continental economic analysis project examining key macroeconomic indicators across African countries using World Bank data.
+
+🎓 Education
+
+Bachelor of Technology (BTech) in Statistics with IT (Data Science Option)
+Tamale Technical University
+Second Class Upper
+
+🌱 Currently Developing
+
+* Advanced SQL and Python for data analytics.
+* Business intelligence and interactive dashboard development.
+* Economic data analysis and forecasting.
+* Practical applications of statistical modelling.
+
+🤝 Let’s Connect
+
+* LinkedIn: https://www.linkedin.com/in/bernard-o-asare/
+* GitHub: https://github.com/bernardoasare
+
+I am interested in opportunities involving data analytics, business intelligence, statistical analysis, and evidence-based decision-making.
